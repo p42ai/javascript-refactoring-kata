@@ -16,9 +16,9 @@ You need only report the score for the current game. Sets and Matches are out of
 ### Setup
 
 0. Have Node.js installed
-1. `npm install`
-2. `npm test`
-3. Refactor and test until you are happy with the result :)
+1. Install testing libraries: `npm install`
+2. Run Tests: `npm test`
+3. Refactor `src/TennisGame.js` and test until you are happy with the result :)
 
 -----
 
