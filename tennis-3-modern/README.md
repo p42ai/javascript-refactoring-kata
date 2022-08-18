@@ -18,6 +18,7 @@ You need only report the score for the current game. Sets and Matches are out of
 0. Have Node.js installed
 1. `npm install`
 2. `npm test`
+3. Refactor and test until you are happy with the result :)
 
 -----
 
