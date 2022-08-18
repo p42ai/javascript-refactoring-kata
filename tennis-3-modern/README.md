@@ -1,5 +1,7 @@
 ## Tennis 3 Refactoring Kata (Modern JS)
 
+### Description
+
 Tennis has a rather quirky scoring system, and to newcomers it can be a little difficult to keep track of. The tennis society has contracted you to build a scoreboard to display the current score during tennis games.
 
 You can read more about Tennis scores on wikipedia which is summarized below:
@@ -13,5 +15,5 @@ You need only report the score for the current game. Sets and Matches are out of
 
 -----
 
-The original Tennis Refactoring Kata (many languages) can be found here: https://github.com/emilybache/Tennis-Refactoring-Kata
-License: CC-BY-SA-4.0. Attribution: sammancoaching.org
+* The original Tennis Refactoring Kata (many languages) can be found here: https://github.com/emilybache/Tennis-Refactoring-Kata
+* License of "Description" section: [CC-BY-SA-4.0.](https://sammancoaching.org/LICENSE.html) Attribution: [sammancoaching.org](https://sammancoaching.org)
