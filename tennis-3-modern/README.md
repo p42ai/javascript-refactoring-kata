@@ -21,6 +21,6 @@ You need only report the score for the current game. Sets and Matches are out of
 3. Refactor `src/TennisGame.js` and test until you are happy with the result :)
 
 -----
+The original Tennis Refactoring Kata (many languages) can be found here: https://github.com/emilybache/Tennis-Refactoring-Kata
 
-* The original Tennis Refactoring Kata (many languages) can be found here: https://github.com/emilybache/Tennis-Refactoring-Kata
-* License of "Description" section: [CC-BY-SA-4.0.](https://sammancoaching.org/LICENSE.html) Attribution: [sammancoaching.org](https://sammancoaching.org)
+License of "Description" section: [CC-BY-SA-4.0.](https://sammancoaching.org/LICENSE.html) Attribution: [sammancoaching.org](https://sammancoaching.org)

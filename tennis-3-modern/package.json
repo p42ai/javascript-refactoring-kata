@@ -1,7 +1,6 @@
 {
   "name": "@p42-refactoring-kata/tennis-3-modern",
   "version": "1.0.0",
-  "main": "TennisGame.js",
   "type": "module",
   "scripts": {
     "test": "npx mocha --reporter spec"
