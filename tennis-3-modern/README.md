@@ -1,6 +1,6 @@
-## Tennis 3 Refactoring Kata (Modern JS)
+# Tennis 3 Refactoring Kata (Modern JS)
 
-### Description
+## Description
 
 Tennis has a rather quirky scoring system, and to newcomers it can be a little difficult to keep track of. The tennis society has contracted you to build a scoreboard to display the current score during tennis games.
 
@@ -13,7 +13,7 @@ You can read more about [Tennis scores on Wikipedia](https://en.wikipedia.org/wi
 
 You need only report the score for the current game. Sets and Matches are out of scope.
 
-### Setup
+## Setup
 
 0. Have Node.js installed
 1. Install testing libraries: `npm install`
