@@ -1,4 +1,4 @@
-export class Item {
+class Item {
   constructor(name, sellIn, quality) {
     this.name = name;
     this.sellIn = sellIn;
@@ -6,11 +6,10 @@ export class Item {
   }
 }
 
-export class Shop {
+class Shop {
   constructor(items = []) {
     this.items = items;
   }
-
   updateQuality() {
     for (var i = 0; i < this.items.length; i++) {
       if (
@@ -69,3 +68,7 @@ export class Shop {
     return this.items;
   }
 }
+module.exports = {
+  Item,
+  Shop,
+};
